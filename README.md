@@ -1,5 +1,5 @@
 # app-password-persistence
-Using Microsoft 365 app passwords for persistence access to a compromised account
+Using Microsoft 365 app passwords for persistent access to a compromised account
 # Preface
 What’s an app password?
 
