@@ -35,6 +35,6 @@ I logged using my app password on an iPhone running iOS 13.3 via the mail accoun
 * Block legacy auth, You should already be doing this and in fact Microsoft has plans to make this a default setting in the near future.
 OR
 * Disable app passwords on the tenant.
- * Settings, Services and addons, Azure Multifactor
+   * Settings, Services and addons, Azure Multifactor
 * If you are unable to disable app passwords, your SIEM should alert on app password creation.
  
