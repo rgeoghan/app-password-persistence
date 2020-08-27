@@ -21,7 +21,7 @@ Step 1: Hard part phish a user with MFA enabled. Thankfully good ole [BHIS](http
 If you have physical access: An enterprising attacker could create a Rubber Ducky payload script that can be deployed to computer with an account that is logged into Microsoft 365. A pretext for being able to have a target plug in a USB to simply print a document for you. An administrative assistant in a lobby may have been delegated access to various executive email/calendar. Microsoft doesn’t allow for app password creation via PowerShell which would make create a [Rubber Ducky](https://shop.hak5.org/products/usb-rubber-ducky-deluxe) payload much easier.
 
 # Concern:
-Revoking app passwords isn’t something that most IT Admins know they should be doing when they are dealing with an account that they suspect to be compromised.  It also is not part of Microsoft guidance  (EDIT they added it to their documentation 8/13/2020) on responding to compromised accounts. In Microsoft’s defense they claim that MFA alone prevents 99.9% of phishing attacks.
+Revoking app passwords isn’t something that most IT Admins know they should be doing when they are dealing with an account that they suspect to be compromised.  It also is not part of [Microsoft guidance](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)  (EDIT they added it to their documentation 8/13/2020) on responding to compromised accounts. In Microsoft’s defense they claim that MFA alone prevents 99.9% of phishing attacks.
 
 # How to create an app password:
 [MS Official documentation:](https://support.microsoft.com/en-us/office/create-an-app-password-for-microsoft-365-3e7c860f-bda4-4441-a618-b53953ee1183?ui=en-us&rs=en-us&ad=us)
