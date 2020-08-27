@@ -1,7 +1,7 @@
 # app-password-persistence
 Using Microsoft 365 app Passwords for persistence
 # Preface
-What’s an app Password?
+What’s an app password?
 
 After you turn on two-step verification or set up the Authenticator app, you may run into issues if you use apps or older devices (like Windows Phone 8 and Xbox 360) that don't support two-step verification.
 
