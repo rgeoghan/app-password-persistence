@@ -40,3 +40,5 @@ OR
    * Settings, Services and addons, Azure Multifactor, manage multifactor authentication, service settings and do not allow users to create app passwords...
 * If you are unable to disable app passwords, your SIEM should alert on app password creation.
  
+ # Responsible Disclosure
+ Before posting this publicly I submitted it to Microsoft MSRC 06/16/2020 and was told that that it was not eligible for a bounty on 06/26/2020.
